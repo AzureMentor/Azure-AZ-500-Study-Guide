@@ -2,19 +2,19 @@
 
 ## Configure security services
 
-* configure Microsoft Azure monitor
-* configure Microsoft Azure log analytics
-* configure diagnostic logging and log retention
-* configure vulnerability scanning
+* Configure Microsoft Azure monitor
+* Configure Microsoft Azure log analytics
+* Configure diagnostic logging and log retention
+* Configure vulnerability scanning
 
 ## Configure security policies
 
-* configure centralized policy management by using Microsoft Azure Security Center
-* configure Just in Time VM access by using Microsoft Azure Security Center
+* Configure centralized policy management by using Microsoft Azure Security Center
+* Configure Just in Time VM access by using Microsoft Azure Security Center
 
 ## Manage security alerts
 
-* create and customize alerts
-* review and respond to alerts and recommendations
-* configure a playbook for a security event by using Microsoft Azure Security Center
-* investigate escalated security incidents
+* Create and customize alerts
+* Review and respond to alerts and recommendations
+* Configure a playbook for a security event by using Microsoft Azure Security Center
+* Investigate escalated security incidents

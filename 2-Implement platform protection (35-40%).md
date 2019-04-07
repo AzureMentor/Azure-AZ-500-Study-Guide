@@ -2,36 +2,36 @@
 
 ## Implement network security
 
-* configure virtual network connectivity
-* configure Network Security Groups (NSGs)
-* create and configure Microsoft Azure firewall
-* create and configure application security groups
-* configure remote access management
-* configure baseline
-* configure resource firewall
+* Configure Virtual Network connectivity
+* Configure Network Security Groups (NSGs)
+* Create and configure Microsoft Azure Firewall
+* Create and configure Application Security Groups
+* Configure remote access management
+* Configure baseline
+* Configure resource firewall
 
 ## Implement host security
 
-* configure endpoint security within the VM
-* configure VM security
-* harden VMs in Microsoft Azure
-* configure system updates for VMs in Microsoft Azure
-* configure baseline
+* Configure endpoint security within the VM
+* Configure VM security
+* Harden VMs in Microsoft Azure
+* Configure System Updates for VMs in Microsoft Azure
+* Configure baseline
 
 ## Configure container security
 
-* configure network
-* configure authentication
-* configure container isolation
-* configure AKS security
-* configure container registry
-* configure container instance security
-* implement vulnerability management
+* Configure network
+* Configure authentication
+* Configure container isolation
+* Configure AKS security
+* Configure Container Registry
+* Configure Container Instance security
+* Implement vulnerability management
 
 ## Implement Microsoft Azure Resource management security
 
-* create Microsoft Azure resource locks
-* manage resource group security
-* configure Microsoft Azure policies
-* configure custom RBAC roles
-* configure subscription and resource permissions
+* Create Microsoft Azure Resource Locks
+* Manage Resource Group Security
+* Configure Microsoft Azure Policies
+* Configure custom RBAC roles
+* Configure Subscription and Resource Permissions

@@ -2,24 +2,24 @@
 
 ## Configure Microsoft Azure Active Directory for workloads
 
-* create App registration
-* configure App registration permission scopes
-* manage App registration permission consent
-* configure multi-factor authentication settings
-* manage Microsoft Azure AD directory groups
-* manage Microsoft Azure AD users
-* install and configure Microsoft Azure AD Connect
-* configure authentication methods
-* implement conditional access policies
-* configure Microsoft Azure AD identity protection
+* Create App registration
+* Configure App registration permission scopes
+* Manage App registration permission consent
+* Configure Multi-Factor Authentication settings
+* Manage Microsoft Azure AD Directory Groups
+* Manage Microsoft Azure AD Users
+* Install and configure Microsoft Azure AD Connect
+* Configure authentication methods
+* Implement Conditional Access Policies
+* Configure Microsoft Azure AD Identity Protection
 
 ## Configure Microsoft Azure AD Privileged Identity Management
 
-* monitor privileged access
-* configure access reviews
-* activate Privileged Identity Management
+* Monitor Privileged Access
+* Configure Access Reviews
+* Activate Privileged Identity Management
 
 ## Configure Microsoft Azure tenant security
 
-* transfer Microsoft Azure subscriptions between Microsoft Azure AD tenants
-* manage API access to Microsoft Azure subscriptions and resources
+* Transfer Microsoft Azure Subscriptions between Microsoft Azure AD tenants
+* Manage API access to Microsoft Azure subscriptions and resources
