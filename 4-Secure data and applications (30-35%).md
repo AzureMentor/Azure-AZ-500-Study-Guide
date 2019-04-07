@@ -1,0 +1,1 @@
+# AZ-500: Secure data and applications (30-35%)

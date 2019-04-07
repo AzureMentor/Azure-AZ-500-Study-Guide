@@ -1,0 +1,1 @@
+# AZ-500: Implement platform protection (35-40%)

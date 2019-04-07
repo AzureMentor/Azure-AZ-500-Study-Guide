@@ -1,0 +1,1 @@
+# AZ-500: Manage security operations (15-20%)
