@@ -27,20 +27,20 @@
 * Implement Storage Service Encryption
 * Implement Disk Encryption
 
-## Configure application security
+## Configure Application Security
 
 * Configure SSL/TLS certs
 * Configure Azure services to protect web apps
 * Create an application security baseline
 
-## Configure and manage Key Vault
+## Configure and Manage Key Vault
 
-* Manage access to Key Vault
+* Manage [access to Key Vault](https://docs.microsoft.com/en-us/azure/key-vault/key-vault-secure-your-key-vault)
 * Manage permissions to:
-    * Secrets
-    * Certificates
-    * Keys
-* Configure RBAC usage in Azure Key Vault
-* Manage certificates
-* Manage secrets
-* Configure key rotation
+    * [Secrets](https://docs.microsoft.com/en-us/azure/key-vault/about-keys-secrets-and-certificates#key-vault-secrets)
+    * [Certificates](https://docs.microsoft.com/en-us/azure/key-vault/about-keys-secrets-and-certificates#key-vault-certificates)
+    * [Keys](https://docs.microsoft.com/en-us/azure/key-vault/about-keys-secrets-and-certificates#key-vault-keys)
+* Configure [RBAC usage in Azure Key Vault](https://docs.microsoft.com/en-us/azure/key-vault/overview-security)
+* Manage [Certificates](https://docs.microsoft.com/en-us/azure/key-vault/certificate-scenarios)
+* Manage [Secrets](https://docs.microsoft.com/en-us/azure/key-vault/about-keys-secrets-and-certificates#key-vault-certificates)
+* Configure [Key Rotation](https://docs.microsoft.com/en-us/azure/key-vault/key-vault-key-rotation-log-monitoring#key-rotation-using-azure-automation)
