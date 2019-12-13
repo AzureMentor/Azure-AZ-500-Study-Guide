@@ -4,8 +4,9 @@
 
 * Configure Virtual Network connectivity
 * Configure Network Security Groups (NSGs)
-* Create and configure Microsoft Azure Firewall
-* Create and configure Application Security Groups
+* Create and configure Azure Firewall
+* Create and configure Azure Front Door service
+* Create and configure Application Security Groups (ASG)
 * Configure remote access management
 * Configure baseline
 * Configure resource firewall
@@ -14,8 +15,8 @@
 
 * Configure endpoint security within the VM
 * Configure VM security
-* Harden VMs in Microsoft Azure
-* Configure System Updates for VMs in Microsoft Azure
+* Harden VMs in Azure
+* Configure System Updates for VMs in Azure
 * Configure baseline
 
 ## Configure container security
@@ -25,13 +26,12 @@
 * Configure container isolation
 * Configure AKS security
 * Configure Container Registry
-* Configure Container Instance security
 * Implement vulnerability management
 
 ## Implement Microsoft Azure Resource management security
 
 * Create Microsoft Azure Resource Locks
 * Manage Resource Group Security
-* Configure Microsoft Azure Policies
+* Configure Azure Policies
 * Configure custom RBAC roles
 * Configure Subscription and Resource Permissions
