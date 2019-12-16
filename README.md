@@ -1,4 +1,4 @@
-# AZ-500: Microsoft Azure Security Technologies
+# AZ-500: Microsoft Azure Security Technologies Study Guide
 
 ## Skills measured
 * [Manage identity and access (20-25%)](1-Manage%20identity%20and%20access%20(20-25%25).md)
