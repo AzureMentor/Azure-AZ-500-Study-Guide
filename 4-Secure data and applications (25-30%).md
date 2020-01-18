@@ -4,33 +4,34 @@
 
 * Configure Data Classification
 * Configure Data Retention
-* Configure Data Sovereignty
+* [Configure Data Sovereignty](https://azure.microsoft.com/en-us/global-infrastructure/geographies/)
+* [Azure customer data protection](https://docs.microsoft.com/en-us/azure/security/fundamentals/protection-customer-data)
 
 ## Configure Security for Data Infrastructure
 
-* Enable Database Authentication
-* Enable Database Auditing
-* Configure Azure SQL Database Advanced Threat Protection
-* Configure Access Control for Storage Accounts
-* Configure Key Management for Storage Accounts
-* Configure Azure AD Authentication for Azure Storage
-* Configure Azure AD Domain Services Authentication for Azure Files
-* Create and manage Shared Access Signatures (SAS)
-* Configure security for HDInsights
-* Configure security for Cosmos DB
-* Configure security for Azure Data Lake
+* [Enable Database Authentication](https://docs.microsoft.com/en-us/azure/sql-database/sql-database-aad-authentication)
+* [Enable Database Auditing](https://docs.microsoft.com/en-us/azure/sql-database/sql-database-auditing)
+* [Configure Azure SQL Database Advanced Threat Protection](https://docs.microsoft.com/en-us/azure/sql-database/sql-database-threat-detection)
+* [Configure Access Control for Storage Accounts](https://docs.microsoft.com/en-us/azure/storage/blobs/security-recommendations)
+* [Configure Key Management for Storage Accounts](https://docs.microsoft.com/en-us/azure/storage/common/storage-account-keys-manage)
+* [Configure Azure AD Authentication for Azure Storage](https://docs.microsoft.com/en-us/azure/storage/common/storage-auth-aad)
+* [Configure Azure AD Domain Services Authentication for Azure Files](https://docs.microsoft.com/en-us/azure/storage/files/storage-files-active-directory-enable)
+* [Create and manage Shared Access Signatures (SAS)](https://docs.microsoft.com/en-us/azure/storage/common/storage-sas-overview)
+* [Configure security for HDInsights](https://docs.microsoft.com/en-us/azure/hdinsight/domain-joined/apache-domain-joined-architecture)
+* [Configure security for Cosmos DB](https://docs.microsoft.com/en-us/azure/cosmos-db/database-security)
+* [Configure security for Azure Data Lake](https://docs.microsoft.com/en-us/azure/storage/blobs/data-lake-storage-access-control) | [Gen1](https://docs.microsoft.com/en-us/azure/data-lake-store/data-lake-store-security-overview)
 
 ## Configure Encryption for Data at Rest
 
-* Implement Azure SQL Database Always Encrypted
-* Implement Database Encryption
-* Implement Storage Service Encryption
-* Implement Disk Encryption
+* [Implement Azure SQL Database Always Encrypted](https://docs.microsoft.com/en-us/azure/sql-database/sql-database-always-encrypted)
+* [Implement Database Encryption - Transparent Data Encryption (TDE)](https://docs.microsoft.com/en-us/sql/relational-databases/security/encryption/transparent-data-encryption)
+* [Implement Storage Service Encryption](https://docs.microsoft.com/en-us/azure/storage/common/storage-service-encryption)
+* [Implement Disk Encryption](https://docs.microsoft.com/en-us/azure/security/fundamentals/azure-disk-encryption-vms-vmss)
 
 ## Configure Application Security
 
-* Configure SSL/TLS certs
-* Configure Azure services to protect web apps
+* [Configure SSL/TLS certs](https://docs.microsoft.com/en-us/azure/cloud-services/cloud-services-configure-ssl-certificate-portal) | [Configure TLS mutual authentication for Azure App Service](https://docs.microsoft.com/en-us/azure/app-service/app-service-web-configure-tls-mutual-auth)
+* [Configure Azure services to protect web apps](https://docs.microsoft.com/en-us/azure/security/fundamentals/paas-applications-using-app-services)
 * Create an application security baseline
 
 ## Configure and Manage Key Vault
