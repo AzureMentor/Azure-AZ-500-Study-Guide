@@ -3,7 +3,7 @@
 ## Configure security services
 
 * [Configure Azure Monitor](https://docs.microsoft.com/en-us/azure/azure-monitor/azure-management)
-* [Configure diagnostic logging](https://docs.microsoft.com/en-us/azure/azure-monitor/platform/platform-logs-overview)
+* [Configure diagnostic logging](https://docs.microsoft.com/en-us/azure/azure-monitor/platform/platform-logs-overview) | [Create diagnostic setting to collect platform logs and metrics in Azure](https://docs.microsoft.com/en-us/azure/azure-monitor/platform/diagnostic-settings)
 * [Configure log retention](https://docs.microsoft.com/en-us/azure/azure-monitor/app/data-retention-privacy)
 * [Configure vulnerability scanning](https://docs.microsoft.com/en-us/azure/security-center/security-center-vulnerability-assessment-recommendations)
 

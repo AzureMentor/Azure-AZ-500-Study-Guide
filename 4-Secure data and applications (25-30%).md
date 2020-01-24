@@ -11,7 +11,7 @@
 
 * [Enable Database Authentication](https://docs.microsoft.com/en-us/azure/sql-database/sql-database-aad-authentication)
 * [Enable Database Auditing](https://docs.microsoft.com/en-us/azure/sql-database/sql-database-auditing)
-* [Configure Azure SQL Database Advanced Threat Protection](https://docs.microsoft.com/en-us/azure/sql-database/sql-database-threat-detection)
+* [Configure Azure SQL Database Advanced Threat Protection](https://docs.microsoft.com/en-us/azure/sql-database/sql-database-threat-detection) | [Overview](https://docs.microsoft.com/en-us/azure/sql-database/sql-database-threat-detection-overview)
 * [Configure Access Control for Storage Accounts](https://docs.microsoft.com/en-us/azure/storage/blobs/security-recommendations)
 * [Configure Key Management for Storage Accounts](https://docs.microsoft.com/en-us/azure/storage/common/storage-account-keys-manage)
 * [Configure Azure AD Authentication for Azure Storage](https://docs.microsoft.com/en-us/azure/storage/common/storage-auth-aad)
