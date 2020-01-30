@@ -1,4 +1,4 @@
-# AZ-500: Secure data and applications (25-30%)
+# AZ-500: Secure data and applications (30-35%)
 
 ## Configure Security Policies to Manage Data
 
