@@ -18,3 +18,5 @@
 * [Review and respond to alerts and recommendations](https://docs.microsoft.com/en-us/azure/security-center/security-center-managing-and-responding-alerts)
 * [Configure a Playbook for a security event by using Azure Security Center](https://docs.microsoft.com/en-us/azure/security-center/security-center-playbooks)
 * [Investigate escalated security incidents](https://docs.microsoft.com/en-us/azure/security-center/security-center-incident) | [Tutorial](https://docs.microsoft.com/en-us/azure/security-center/tutorial-security-incident)
+
+[Return to Table of Contents](README.md)

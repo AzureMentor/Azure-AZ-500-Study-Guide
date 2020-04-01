@@ -45,3 +45,5 @@
 * Manage [Certificates](https://docs.microsoft.com/en-us/azure/key-vault/certificate-scenarios)
 * Manage [Secrets](https://docs.microsoft.com/en-us/azure/key-vault/about-keys-secrets-and-certificates#key-vault-certificates)
 * Configure [Key Rotation](https://docs.microsoft.com/en-us/azure/key-vault/key-vault-key-rotation-log-monitoring#key-rotation-using-azure-automation)
+
+[Return to Table of Contents](README.md)

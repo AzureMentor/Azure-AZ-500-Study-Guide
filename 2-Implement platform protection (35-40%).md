@@ -35,3 +35,5 @@
 * [Configure Azure Policies](https://docs.microsoft.com/en-us/azure/governance/policy/tutorials/create-and-manage)
 * [Configure custom RBAC roles](https://docs.microsoft.com/en-us/azure/role-based-access-control/custom-roles)
 * [Configure Subscription and Resource Permissions](https://docs.microsoft.com/en-us/azure/cost-management-billing/manage/add-change-subscription-administrator)
+
+[Return to Table of Contents](README.md)
