@@ -2,8 +2,8 @@
 
 ## Configure Security Policies to Manage Data
 
-* Configure Data Classification
-* Configure Data Retention
+* [Configure Data Classification](https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/govern/policy-compliance/data-classification) | [Tutorial](https://docs.microsoft.com/en-us/azure/information-protection/infoprotect-settings-tutorial)
+* [Configure Data Retention](https://docs.microsoft.com/en-us/rest/api/storageservices/setting-a-storage-analytics-data-retention-policy) | [Learn about retention policies](https://docs.microsoft.com/en-us/microsoft-365/compliance/retention-policies?view=o365-worldwide)
 * [Configure Data Sovereignty](https://azure.microsoft.com/en-us/global-infrastructure/geographies/)
 * [Azure customer data protection](https://docs.microsoft.com/en-us/azure/security/fundamentals/protection-customer-data)
 
@@ -32,7 +32,7 @@
 
 * [Configure SSL/TLS certs](https://docs.microsoft.com/en-us/azure/cloud-services/cloud-services-configure-ssl-certificate-portal) | [Configure TLS mutual authentication for Azure App Service](https://docs.microsoft.com/en-us/azure/app-service/app-service-web-configure-tls-mutual-auth)
 * [Configure Azure services to protect web apps](https://docs.microsoft.com/en-us/azure/security/fundamentals/paas-applications-using-app-services)
-* Create an application security baseline
+* [Create an application security baseline](https://docs.microsoft.com/en-us/azure/security/fundamentals/paas-deployments)
 
 ## Configure and Manage Key Vault
 
