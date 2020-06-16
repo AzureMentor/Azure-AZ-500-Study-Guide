@@ -36,7 +36,7 @@
 
 ## Configure and Manage Key Vault
 
-* Manage [access to Key Vault](https://docs.microsoft.com/en-us/azure/key-vault/key-vault-secure-your-key-vault)
+* Manage [access to Key Vault](https://docs.microsoft.com/en-us/azure/key-vault/key-vault-secure-your-key-vault) | [Configure Azure Key Vault firewalls and virtual networks](https://docs.microsoft.com/en-us/azure/key-vault/general/network-security)
 * Manage permissions to:
     * [Secrets](https://docs.microsoft.com/en-us/azure/key-vault/about-keys-secrets-and-certificates#key-vault-secrets)
     * [Certificates](https://docs.microsoft.com/en-us/azure/key-vault/about-keys-secrets-and-certificates#key-vault-certificates)
