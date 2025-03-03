@@ -1,27 +1,19 @@
-# AZ-500: Manage identity and access (20-25%)
+# AZ-500: Secure identity and access (15–20%)
 
-## Configure Azure Active Directory for workloads
+## Manage security controls for identity and access
+* [Manage Azure built-in role assignments](https://learn.microsoft.com/en-us/azure/role-based-access-control/built-in-roles)
+* [Manage custom roles, including Azure roles and Microsoft Entra roles](https://learn.microsoft.com/en-us/entra/identity/role-based-access-control/custom-create)
+* [Implement and manage Microsoft Entra Permissions Management](https://learn.microsoft.com/en-us/entra/permissions-management/overview)
+* [Plan and manage Azure resources in Microsoft Entra Privileged Identity Management, including settings and assignments](https://learn.microsoft.com/en-us/entra/id-governance/privileged-identity-management/pim-getting-started)
+* [Implement multi-factor authentication (MFA) for access to Azure resources](https://learn.microsoft.com/en-us/entra/identity/authentication/howto-mfa-mfasettings)
+* [Implement Conditional Access policies for cloud resources in Azure](https://learn.microsoft.com/en-us/entra/identity/conditional-access/overview)
 
-* [Create App registration](https://docs.microsoft.com/en-us/azure/active-directory/develop/quickstart-register-app)
-* [Configure App registration permission scopes](https://docs.microsoft.com/en-us/azure/active-directory/develop/v2-permissions-and-consent) | [v1.0](https://docs.microsoft.com/en-us/azure/active-directory/develop/v1-permissions-and-consent)
-* [Manage App registration permission consent](https://docs.microsoft.com/en-us/azure/active-directory/develop/consent-framework)
-* [Configure Multi-Factor Authentication settings](https://docs.microsoft.com/en-us/azure/active-directory/authentication/howto-mfa-mfasettings)
-* [Manage Azure AD Directory Groups](https://docs.microsoft.com/en-us/microsoft-365/enterprise/identity-use-group-management)
-* [Manage Azure AD Users](https://docs.microsoft.com/en-us/azure/active-directory/users-groups-roles/)
-* [Install and configure Azure AD Connect](https://docs.microsoft.com/en-us/azure/active-directory/hybrid/how-to-connect-install-custom)
-* [Configure authentication methods](https://docs.microsoft.com/en-us/azure/security/fundamentals/choose-ad-authn)
-* [Implement Conditional Access Policies](https://docs.microsoft.com/en-us/azure/active-directory/conditional-access/best-practices)
-* [Configure Azure AD Identity Protection](https://docs.microsoft.com/en-us/azure/active-directory/identity-protection/)
-
-## Configure Azure AD Privileged Identity Management
-
-* [Monitor Privileged Access](https://docs.microsoft.com/en-us/azure/active-directory/privileged-identity-management/pim-deployment-plan)
-* [Configure Access Reviews](https://docs.microsoft.com/en-us/azure/active-directory/governance/access-reviews-overview)
-* [Activate Privileged Identity Management](https://docs.microsoft.com/en-us/azure/active-directory/privileged-identity-management/pim-getting-started)
-
-## Configure Azure Tenant Security
-
-* [Transfer Azure Subscriptions between Azure AD tenants](https://docs.microsoft.com/en-us/azure/cost-management-billing/manage/billing-subscription-transfer)
-* [Manage API access to Azure subscriptions and resources](https://docs.microsoft.com/en-us/azure/api-management/api-management-howto-aad) | [Authentication flows and application scenarios](https://docs.microsoft.com/en-us/azure/active-directory/develop/authentication-flows-app-scenarios) | [Azure Active Directory Graph API](https://docs.microsoft.com/en-us/azure/active-directory/develop/active-directory-graph-api)
+## Manage Microsoft Entra application access
+* [Manage access to enterprise applications in Microsoft Entra ID, including OAuth permission grants](https://learn.microsoft.com/en-us/entra/identity/enterprise-apps/manage-application-permissions)
+* [Manage Microsoft Entra app registrations](https://learn.microsoft.com/en-us/entra/identity-platform/quickstart-register-app?tabs=certificate%2Cexpose-a-web-api)
+* [Configure app registration permission scopes](https://learn.microsoft.com/en-us/entra/identity-platform/permissions-consent-overview)
+* [Manage app registration permission consent](https://learn.microsoft.com/en-us/entra/identity-platform/application-consent-experience)
+* [Manage and use service principals](https://learn.microsoft.com/en-us/entra/identity-platform/app-objects-and-service-principals)
+* [Manage managed identities](https://learn.microsoft.com/en-us/entra/identity/managed-identities-azure-resources/overview)
 
 [Return to Table of Contents](README.md)

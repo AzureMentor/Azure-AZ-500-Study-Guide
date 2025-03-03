@@ -1,4 +1,4 @@
-# AZ-500: Implement platform protection (35-40%)
+# AZ-500: Secure networking (20–25%)
 
 ## Implement network security
 
@@ -18,15 +18,6 @@
 * [Harden VMs in Azure](https://docs.microsoft.com/en-us/archive/blogs/mvpawardprogram/just-in-time-access-azure-vms) | [Security best practices for IaaS workloads in Azure](https://docs.microsoft.com/en-us/azure/security/fundamentals/iaas)
 * [Configure System Updates for VMs in Azure](https://docs.microsoft.com/en-us/azure/automation/automation-tutorial-update-management)
 * [Configure baseline](https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/govern/security-baseline/toolchain) | [Security Baseline discipline overview](https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/govern/security-baseline/)
-
-## Configure container security
-
-* [Configure network - Enable containers to use Azure Virtual Network capabilities](https://docs.microsoft.com/en-us/azure/virtual-network/container-networking-overview)
-* [Configure authentication](https://docs.microsoft.com/en-us/azure/container-registry/container-registry-authentication)
-* [Configure container isolation](https://azure.microsoft.com/en-us/resources/container-security-in-microsoft-azure/) | [Isolation Modes](https://docs.microsoft.com/en-us/virtualization/windowscontainers/manage-containers/hyperv-container) | [PDF](https://azure.microsoft.com/mediahandler/files/resourcefiles/container-security-in-microsoft-azure/Open%20Container%20Security%20in%20Microsoft%20Azure.pdf)
-* [Configure AKS security](https://docs.microsoft.com/en-us/azure/aks/concepts-security)
-* [Configure Container Registry](https://docs.microsoft.com/en-us/azure/container-registry/container-registry-authentication) | [FAQ](https://docs.microsoft.com/en-us/azure/container-registry/container-registry-faq)
-* [Implement vulnerability management](https://docs.microsoft.com/en-us/azure/container-instances/container-instances-image-security)
 
 ## Implement Microsoft Azure Resource management security
 
