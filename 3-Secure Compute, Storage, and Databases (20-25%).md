@@ -1,4 +1,13 @@
-# AZ-500: Secure data and applications (30-35%)
+# AZ-500: Secure compute, storage, and databases (20–25%)
+
+## Configure container security
+
+* [Configure network - Enable containers to use Azure Virtual Network capabilities](https://docs.microsoft.com/en-us/azure/virtual-network/container-networking-overview)
+* [Configure authentication](https://docs.microsoft.com/en-us/azure/container-registry/container-registry-authentication)
+* [Configure container isolation](https://azure.microsoft.com/en-us/resources/container-security-in-microsoft-azure/) | [Isolation Modes](https://docs.microsoft.com/en-us/virtualization/windowscontainers/manage-containers/hyperv-container) | [PDF](https://azure.microsoft.com/mediahandler/files/resourcefiles/container-security-in-microsoft-azure/Open%20Container%20Security%20in%20Microsoft%20Azure.pdf)
+* [Configure AKS security](https://docs.microsoft.com/en-us/azure/aks/concepts-security)
+* [Configure Container Registry](https://docs.microsoft.com/en-us/azure/container-registry/container-registry-authentication) | [FAQ](https://docs.microsoft.com/en-us/azure/container-registry/container-registry-faq)
+* [Implement vulnerability management](https://docs.microsoft.com/en-us/azure/container-instances/container-instances-image-security)
 
 ## Configure Security Policies to Manage Data
 
@@ -27,23 +36,5 @@
 * [Implement Database Encryption - Transparent Data Encryption (TDE)](https://docs.microsoft.com/en-us/sql/relational-databases/security/encryption/transparent-data-encryption)
 * [Implement Storage Service Encryption](https://docs.microsoft.com/en-us/azure/storage/common/storage-service-encryption)
 * [Implement Disk Encryption](https://docs.microsoft.com/en-us/azure/security/fundamentals/azure-disk-encryption-vms-vmss)
-
-## Configure Application Security
-
-* [Configure SSL/TLS certs](https://docs.microsoft.com/en-us/azure/cloud-services/cloud-services-configure-ssl-certificate-portal) | [Configure TLS mutual authentication for Azure App Service](https://docs.microsoft.com/en-us/azure/app-service/app-service-web-configure-tls-mutual-auth)
-* [Configure Azure services to protect web apps](https://docs.microsoft.com/en-us/azure/security/fundamentals/paas-applications-using-app-services)
-* [Create an application security baseline](https://docs.microsoft.com/en-us/azure/security/fundamentals/paas-deployments)
-
-## Configure and Manage Key Vault
-
-* Manage [access to Key Vault](https://docs.microsoft.com/en-us/azure/key-vault/key-vault-secure-your-key-vault) | [Configure Azure Key Vault firewalls and virtual networks](https://docs.microsoft.com/en-us/azure/key-vault/general/network-security)
-* Manage permissions to:
-    * [Secrets](https://docs.microsoft.com/en-us/azure/key-vault/about-keys-secrets-and-certificates#key-vault-secrets)
-    * [Certificates](https://docs.microsoft.com/en-us/azure/key-vault/about-keys-secrets-and-certificates#key-vault-certificates)
-    * [Keys](https://docs.microsoft.com/en-us/azure/key-vault/about-keys-secrets-and-certificates#key-vault-keys)
-* Configure [RBAC usage in Azure Key Vault](https://docs.microsoft.com/en-us/azure/key-vault/overview-security)
-* Manage [Certificates](https://docs.microsoft.com/en-us/azure/key-vault/certificate-scenarios)
-* Manage [Secrets](https://docs.microsoft.com/en-us/azure/key-vault/about-keys-secrets-and-certificates#key-vault-certificates)
-* Configure [Key Rotation](https://docs.microsoft.com/en-us/azure/key-vault/key-vault-key-rotation-log-monitoring#key-rotation-using-azure-automation)
 
 [Return to Table of Contents](README.md)
