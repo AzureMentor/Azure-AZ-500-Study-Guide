@@ -1,4 +1,7 @@
 # AZ-500: Microsoft Azure Security Technologies Study Guide
+
+> **Note:** Microsoft retired the Azure Security Engineer Associate certification and exam AZ-500 on August 31, 2026 ([Microsoft Learn](https://learn.microsoft.com/en-us/credentials/certifications/azure-security-engineer/)). Microsoft's current cloud security certification is SC-500, Cloud and AI Security Engineer Associate ([study guide](https://learn.microsoft.com/en-us/credentials/certifications/resources/study-guides/sc-500)).
+
 ## Skills measured
 
 1. [Secure Identity and Access (15-20%)](1-Secure%20Identity%20and%20Access%20(15-20%25).md)
